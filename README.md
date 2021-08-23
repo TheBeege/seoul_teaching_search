@@ -6,3 +6,5 @@ Using WebComponents because the JS web framework ecosystem is cancer.
 * [Contributing Guidelines](CONTRIBUTING.md)
 * [TODOS](TODOS.md)
 * [Wireframe](doc/wireframes/home.png)
+
+You can view the [current website](https://thebeege.github.io/seoul_teaching_search/) via [Github Pages](https://pages.github.com/).
